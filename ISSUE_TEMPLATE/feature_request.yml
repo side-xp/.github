@@ -1,0 +1,46 @@
+name: 💡 Feature request
+description: Suggest a feature or improvement
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Any idea or improvement worth suggesting?
+        Please make sure you had a look at the current issues and discussions before duplicating a request.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem statement
+      description: What problem does this feature solve? Why does it matter?
+      placeholder: e.g. "As a user, I can't do X which forces me to work around it by..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+      description: Describe the feature you'd like, as concretely as possible.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Any alternative solutions or workarounds you've explored.
+    validations:
+      required: false
+
+  - type: dropdown
+    id: importance
+    attributes:
+      label: Priority
+      description: How important is this feature to you?
+      options:
+        - Nice to have
+        - Important
+        - Critical / blocking
+    validations:
+      required: true
