@@ -10,7 +10,7 @@ At Sideways Experiments, we hate doing the same thing more than once, and we lov
 
 ## Get involved!
 
-There's many ways to be involved in our open source projects, and there's absolutely no pressure to give more or less of your time. So whether you want to develop the core of a whole package or just post a comment in an issue, any help is appreciated!
+There are many ways to be involved in our open source projects, and there's absolutely no pressure to give more or less of your time. So whether you want to develop the core of a whole package or just post a comment in an issue, any help is appreciated!
 
 So what can you do to help?
 
@@ -18,7 +18,7 @@ So what can you do to help?
 - **Report bugs**: found a bug when using one of our packages? You can report it in the *Issues* tab on GitHub
 - **Suggest improvements**: whether from the [Discord server](https://discord.gg/bMK2d47JaE) or by creating an *Issue*, feel free to talk about your needs or current usage of our solutions, highlight what's missing or what could be better
 - **Request new features**: again, you can use the [Discord server](https://discord.gg/bMK2d47JaE) or create a new *Issue* to ask for something new, see if others may need it too, so we can consider modifying an existing package or even start a new project just for it
-- **Address issues**: you can contribute directly to the codebase by resolving an issue, creating the required assets, or just implement changes and create a Pull request on *GitHub*
+- **Address issues**: you can contribute directly to the codebase by resolving an issue, creating the required assets, or just implementing changes and create a Pull Request on *GitHub*
 
 > By the way, we love to know how you use our tools, so we can make them better!
 
@@ -42,11 +42,11 @@ To contribute code:
    - **Signed commits** are required
    - Take care to follow our [commit message guidelines](https://github.com/side-xp/.github/blob/main/docs/coding-style/commit-messages.md)
 4. Test your changes locally
-5. Submit a **pull request targeting `develop` or `dev`**, not `master` or `main`
+5. Submit a **Pull Request targeting `develop` or `dev`**, not `master` or `main`
 6. Describe your changes and reference any related issues
 7. A member of the ***Sideways Experiments* core team** will review it
 
-As mentioned in the *Suggesting enhancements or features* section, please don't create Pull Requests for unsolicited work.
+As mentioned in the [*Suggesting enhancements or features*](https://github.com/side-xp/.github/blob/main/SUPPORT.md#suggesting-enhancements-or-features) section of our support guidelines, please don't create Pull Requests for unsolicited work.
 
 ### Pull Request Requirements
 
