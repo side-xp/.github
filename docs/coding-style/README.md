@@ -4,4 +4,4 @@
 
 - [Commit messages](./commit-message.md)
 - [C# conventions for Unity projects](./cs-unity.md)
-- [TypeScript format rules for Node projects](./node-library.md)
+- [TypeScript format rules for Node projects](./typescript.md)

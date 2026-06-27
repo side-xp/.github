@@ -24,9 +24,9 @@ Based on the [Angular team guidelines](https://github.com/angular/angular/blob/m
 - **`docs`**: a change that occurs only in the documentation
 - **`feat`**: a new feature
 - **`refactor`**: a change that neither fixes a bug nor adds a feature
-- **`ci`**: A change to the CI configuration (eg. GitHub Actions)
-- **`test`**: Adding missing tests or correcting existing tests
-- **`chore`**: A change with no impact for the users (eg. add version tag, deploy a Release, ...)
+- **`ci`**: a change to the CI configuration (eg. GitHub Actions)
+- **`test`**: adding missing tests or correcting existing tests
+- **`chore`**: a change with no impact for the users (eg. add version tag, deploy a Release, ...)
 
 There's also some automatic behaviors related to the use of some of these keywords:
 

@@ -9,7 +9,7 @@
 
 For any feature request or bug report, you can create a new *Issue* on GitHub.
 
-**Please don't use issues for usage questions**, they are reserved for confirmed bugs and feature requests. For usage question or general discussion, feel free to join our [Discord server](https://discord.gg/bMK2d47JaE).
+**Please don't use issues for usage questions**, they are reserved for confirmed bugs and feature requests. For usage questions or general discussion, feel free to join our [Discord server](https://discord.gg/bMK2d47JaE).
 
 > By the way, we love to know how you use our tools, so we can make them better!
 

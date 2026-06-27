@@ -18,7 +18,7 @@ So what can you do to help?
 - **Report bugs**: found a bug when using one of our packages? You can report it in the *Issues* tab on GitHub
 - **Suggest improvements**: whether from the [Discord server](https://discord.gg/bMK2d47JaE) or by creating an *Issue*, feel free to talk about your needs or current usage of our solutions, highlight what's missing or what could be better
 - **Request new features**: again, you can use the [Discord server](https://discord.gg/bMK2d47JaE) or create a new *Issue* to ask for something new, see if others may need it too, so we can consider modifying an existing package or even start a new project just for it
-- **Address issues**: you can contribute directly to the codebase by resolving an issue, creating the required assets, oe just implement changes and create a Pull request on *GitHub*
+- **Address issues**: you can contribute directly to the codebase by resolving an issue, creating the required assets, or just implement changes and create a Pull request on *GitHub*
 
 > By the way, we love to know how you use our tools, so we can make them better!
 
@@ -26,7 +26,7 @@ So what can you do to help?
 
 *Sideways Experiments* has adopted the [*Contributor Covenant*](https://www.contributor-covenant.org/) as its Code of Conduct for its open source projects, and we expect contributors to adhere to it.
 
-If you observe any unacceptable behavior or need to report a violation, please contact the *Sideways Experiment* core team directly to [contact@sideways-experiments.com](mailto:contact@sideways-experiments.com).
+If you observe any unacceptable behavior or need to report a violation, please contact the *Sideways Experiments* core team directly to [contact@sideways-experiments.com](mailto:contact@sideways-experiments.com).
 
 ## Code syntax
 
@@ -76,7 +76,7 @@ We will evaluate whether a Contributor License Agreement (CLA) is required in th
 
 This project is maintained by the team at *Sideways Experiments*.
 
-If you're unsure about any part of the contribution process, feel free to open a discussion on our [Discord server](https://discord.gg/bMK2d47JaE), or by sending an email directly to [contact@sideways-experiments](mailto:contact@sideways-experiments.com).
+If you're unsure about any part of the contribution process, feel free to open a discussion on our [Discord server](https://discord.gg/bMK2d47JaE), or by sending an email directly to [contact@sideways-experiments.com](mailto:contact@sideways-experiments.com).
 
 ---
 

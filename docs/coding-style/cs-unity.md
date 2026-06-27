@@ -79,7 +79,7 @@ If not specified below, elements must follow these general rules:
 - A single `*.cs` file should contain **only 1 class** (only exception for `private` nested classes)
 - Always have **only 1 statement** maximum per line
 - Always have **only 1 declaration** maximum per line
-- Prefer **full names** to abbreviations, excepted for common ones used as name such as *Id*, *Url*, ...
+- Prefer **full names** to abbreviations, except for common ones used as name such as *Id*, *Url*, ...
 - For loops and conditions, [**use inversion** to reduce nesting](https://www.youtube.com/watch?v=CFRhGnuXG-4) (prefer an early `return`, `break` or `continue` statement to check for *false* conditions instead of doing all operations in *true* condition)
 - **Use `nameof()`** instead of plain strings to reference elements when possible
 - **Never use `this`** unless absolutely necessary
